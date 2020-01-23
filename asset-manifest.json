@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oferlapidot/static/css/main.7daee9e5.chunk.css",
+    "main.js": "/oferlapidot/static/js/main.58dff727.chunk.js",
+    "main.js.map": "/oferlapidot/static/js/main.58dff727.chunk.js.map",
+    "runtime-main.js": "/oferlapidot/static/js/runtime-main.adb56db4.js",
+    "runtime-main.js.map": "/oferlapidot/static/js/runtime-main.adb56db4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/oferlapidot/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.87a7badc.chunk.js": "/oferlapidot/static/js/2.87a7badc.chunk.js",
+    "static/js/2.87a7badc.chunk.js.map": "/oferlapidot/static/js/2.87a7badc.chunk.js.map",
+    "index.html": "/oferlapidot/index.html",
+    "precache-manifest.bf46cee7c88d07655cce96978a393cdb.js": "/oferlapidot/precache-manifest.bf46cee7c88d07655cce96978a393cdb.js",
+    "service-worker.js": "/oferlapidot/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/oferlapidot/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7daee9e5.chunk.css.map": "/oferlapidot/static/css/main.7daee9e5.chunk.css.map",
+    "static/js/2.87a7badc.chunk.js.LICENSE": "/oferlapidot/static/js/2.87a7badc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb56db4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.87a7badc.chunk.js",
+    "static/css/main.7daee9e5.chunk.css",
+    "static/js/main.58dff727.chunk.js"
+  ]
+}
