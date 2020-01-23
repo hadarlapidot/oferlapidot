@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oferlapidot/precache-manifest.bf46cee7c88d07655cce96978a393cdb.js"
+  "/oferlapidot/precache-manifest.893c53e041883d99582f6196187a5cea.js"
 );
 
 self.addEventListener('message', (event) => {
